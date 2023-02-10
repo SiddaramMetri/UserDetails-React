@@ -1,6 +1,9 @@
 # UserDetails in React App
 ![image](https://user-images.githubusercontent.com/52155873/218172414-a39491e0-6212-47e9-8087-c5dbdbbfabfd.png)
 
+
+![image](https://user-images.githubusercontent.com/52155873/218172660-f4368d60-187e-4cd4-8a92-cbaa1311628b.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
